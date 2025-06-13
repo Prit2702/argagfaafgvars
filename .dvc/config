@@ -1,0 +1,4 @@
+[core]
+    remote = my_code.py
+['remote "my_code.py"']
+    url = ../S3
